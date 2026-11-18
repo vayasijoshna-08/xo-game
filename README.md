@@ -47,7 +47,7 @@ XO-Game/
 <img width="306" height="464" alt="image" src="https://github.com/user-attachments/assets/e91f125a-a1e1-4454-9995-b2d2c731f77e" />
 
 
- #👩‍💻Author
+👩‍💻 Author by
  
  VAYASIJOSHNA
  
